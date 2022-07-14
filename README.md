@@ -1,10 +1,10 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-12 22:38:38
- * @LastEditTime: 2022-02-23 12:24:43
+ * @LastEditTime: 2022-07-14 12:37:52
  * @LastEditors: BDFD
  * @Description:
- * @FilePath: \3.0-Course-Name_Coursera_Template\README.md
+ * @FilePath: \Coursera_Google-Project-Management\README.md
 -->
 
 Descritpion Template
@@ -13,52 +13,63 @@ Quizzes & Assignment Solutions for Entire $(Course Name) on Coursera. Also inclu
 Common Tag: data-science, python, data-visualization, cousera, assignment-solution, quiz, sql, data-analytics, excel
 
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
-![ViewCount](<https://views.whatilearened.today/views/github/$(github_user)/$(repo_address).svg?cache=remove>)
-![GitHub top language](<https://img.shields.io/github/languages/top/$(github_user)/$(repo_address)?style=flat>)
-![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/IBM-Data-Analyst-Professional-Certificate_Coursera_?style=flat)
-![GitHub language count](<https://img.shields.io/github/languages/count/$(github_user)/$(repo_address)?style=flat>)
-<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
+![ViewCount](https://views.whatilearened.today/views/github/BDFD-LearningGround/Coursera_Google-Project-Management.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/BDFD-LearningGround/Coursera_Google-Project-Management?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/Coursera_Google-Project-Management?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/Coursera_Google-Project-Management?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
 
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>$(Course-NAME{Coursera})[![View My Profile]
+<!-- <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" /> -->
+
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>Google Project Management(Coursera)
 
 ## About This Course/Certificate
 
-About This workshop and the materials in this repo are for anyone who is interested in working with Data Science to produce high quality, working style! Check out follow course link if you think it is interested.
+About This workshop and the materials in this repo are for anyone who is interested in working with Project Management to produce high quality, working style! Check out follow course link if you think it is interested.
 
-**Course Link:** [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+**Course Link:** [Google Project Management:Professional Certificate](https://www.coursera.org/professional-certificates/google-project-management)
 
 ## Course Learn Path
 
 The courses enlisted as follows:
 
-- [x] **C1-**
-- [x] **C2-**
-- [ ] **C3-**
+- [ ] **C1-Foundations of Project Management**
+- [ ] **C2-Project Initiation: Starting a Successful Project**
+- [ ] **C3-Project Planning: Putting It All Together**
+- [ ] **C4-Project Execution: Running the Project**
+- [ ] **C5-Agile Project Management**
+- [ ] **C6-Capstone: Applying Project Management in the Real World**
 
-## Course Description: 1 Course
+## Course Description: 6 Course
 
-<img height="27" src="https://img.shields.io/badge/test 1 -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
-<img height="27" src="https://img.shields.io/badge/test 2 -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
-<img height="27" src="https://img.shields.io/badge/test 3-Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br/>
-Data science courses contain math—no avoiding that! This course is designed to teach learners the basic math you will need in order to be successful in almost any data science math course and was created for learners who have basic math skills but may not have taken algebra or pre-calculus. Data Science Math Skills introduces the core math that data science is built upon, with no extra complexity, introducing unfamiliar ideas and math symbols one-at-a-time.
+This program includes over 140 hours of instruction and hundreds of practice-based assessments which will help you simulate real-world project management scenarios that are critical for success in the workplace.
+
+The content is highly interactive and exclusively developed by Google employees with decades of experience in program and project management.
 
 ## Applied Learning Project
 
-**Tools:** Jupyter / JupyterLab, GitHub,
+**Skills:** - Creating risk management plans;
 
-**Libraries:** Pandas, NumPy
+- Understanding process improvement techniques;
+- Managing escalations, team dynamics, and stakeholders;
+- Creating budgets and navigating procurement;
+- Utilizing project management software, tools, and templates;
+- Practicing Agile project management, with an emphasis on Scrum.
 
-**Projects:** ABC Project Name
+**Tools:**
+
+**Libraries:**
+
+**Projects:**
 
 #### Useful Resources
 
-- [Course Link](https://www.coursera.org/professional-certificates/ibm-data-science)
+- [Course Link](https://www.coursera.org/professional-certificates/google-project-management)
 
 ## Course Certificate
 
-Total Hours: ~13 Hrs
+Total Hours: ~140 Hrs
 
 <div align="center">
 
