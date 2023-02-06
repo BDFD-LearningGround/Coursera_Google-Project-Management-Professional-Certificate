@@ -38,7 +38,7 @@ The courses enlisted as follows:
 - [x] **C3-Project Planning: Putting It All Together**
 - [x] **C4-Project Execution: Running the Project**
 - [x] **C5-Agile Project Management**
-- [x] **C6-Capstone: Applying Project Management in the Real World**
+- [ ] **C6-Capstone: Applying Project Management in the Real World**
 
 ## Course Description: 6 Course
 
