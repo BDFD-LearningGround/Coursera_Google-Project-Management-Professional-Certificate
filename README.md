@@ -33,11 +33,11 @@ About This workshop and the materials in this repo are for anyone who is interes
 
 The courses enlisted as follows:
 
-- [ ] **C1-Foundations of Project Management**
-- [ ] **C2-Project Initiation: Starting a Successful Project**
-- [ ] **C3-Project Planning: Putting It All Together**
-- [ ] **C4-Project Execution: Running the Project**
-- [ ] **C5-Agile Project Management**
+- [x] **C1-Foundations of Project Management**
+- [x] **C2-Project Initiation: Starting a Successful Project**
+- [x] **C3-Project Planning: Putting It All Together**
+- [x] **C4-Project Execution: Running the Project**
+- [x] **C5-Agile Project Management**
 - [ ] **C6-Capstone: Applying Project Management in the Real World**
 
 ## Course Description: 6 Course
