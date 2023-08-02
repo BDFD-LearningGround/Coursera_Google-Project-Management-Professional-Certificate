@@ -17,9 +17,9 @@ Common Tag: data-science, python, data-visualization, cousera, assignment-soluti
 ![GitHub top language](https://img.shields.io/github/languages/top/BDFD-LearningGround/Coursera_Google-Project-Management?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/Coursera_Google-Project-Management?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/Coursera_Google-Project-Management?style=flat)
-<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
+<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
 
-<!-- <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" /> -->
+<!-- <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" /> -->
 
 # <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>Google Project Management(Coursera)
 
@@ -38,7 +38,7 @@ The courses enlisted as follows:
 - [x] **C3-Project Planning: Putting It All Together**
 - [x] **C4-Project Execution: Running the Project**
 - [x] **C5-Agile Project Management**
-- [ ] **C6-Capstone: Applying Project Management in the Real World**
+- [x] **C6-Capstone: Applying Project Management in the Real World**
 
 ## Course Description: 6 Course
 
